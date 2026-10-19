@@ -1,0 +1,19 @@
+.DS_Store
+__MACOSX/
+*.swp
+__pycache__/
+.vscode/
+
+# Jamais de secrets ni de fichiers propriétaires
+.env
+*.key
+*.pem
+*.p12
+*secret*
+*password*
+*.bin
+*.iso
+*.lic
+
+# Documentation locale et configurations privees
+/00-preparation/
