@@ -7,7 +7,7 @@ J'utilise des équipements Cisco, un switch TP-Link, des ordinateurs physiques e
 
 Mon objectif est de comprendre comment ces infrastructures fonctionnent, de savoir les configurer et surtout de développer mes capacités de diagnostic et de dépannage.
 
-Mes notes de cours et exercices sont regroupés dans [learning-journey](https://github.com/Mdaffe17/learning-journey).
+Mes notes de cours et exercices sont regroupés dans [learning-journey](https://github.com/itsnodx/learning-journey).
 
 ## État actuel
 
